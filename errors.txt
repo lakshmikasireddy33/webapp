@@ -1,0 +1,1 @@
+am adding errors list to the application
